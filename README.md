@@ -34,6 +34,10 @@ plaintext = cesar(ciphertext, 3, ischiffre=False)  # Decrypt
 | RSA            | ✓          | ✓          | ✗        |  
 
 
+## Contribution
+
+Les contributions sont les bienvenues ! Veuillez ouvrir une issue ou une pull request pour toute amélioration ou correction.
+
 ## License
 [MIT](LICENSE) © 2025 [Aya Ben Mabrouk]
 
