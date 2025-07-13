@@ -1,5 +1,4 @@
 
-```markdown
 # PyCryptoLab  
 *A Python Toolkit for Classical Cryptography & Cryptanalysis*  
 
